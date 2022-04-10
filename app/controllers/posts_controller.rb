@@ -14,4 +14,4 @@ class PostsController < ApplicationController
 end
 
 
-rails _6.0.0_ new drill_app -d mysql
+# rails _6.0.0_ new drill_app -d mysql
